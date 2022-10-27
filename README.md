@@ -103,7 +103,9 @@ At this stage, new data set will predict with selected model before,
 
 ## Conclusion
 
-We Conclude our results:![Logo](https://github.com/L-VinayKumar/Predict-Absenteeism-from-work/blob/main/Predict-Absenteeism/Conclusion.png?raw=true)
+We Conclude our results:
+
+![Logo](https://github.com/L-VinayKumar/Predict-Absenteeism-from-work/blob/main/Predict-Absenteeism/Conclusion.png?raw=true)
 
 ### From the Conclusion, it seems that whenever a person has stated reason 3, we have a much higher chance of getting excessive absence
 #### Reason 3 = Poisoning
