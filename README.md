@@ -60,7 +60,7 @@ Based on these problems, this analysis is carried out to predict the predominant
 
 ## Installation
 
-To install the libraries used i this project. Follow the below steps
+To install the libraries used in this project. Follow the below steps
 
 ```bash
  pip install pandas
