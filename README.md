@@ -12,14 +12,15 @@ For full report of this project, please visit: [Absenteeism](https://github.com/
 Table of Contents:
 
     1. Problem / Object Statement
-    2. Data understanding
-    3. Installation
-    4. Exploratory Data Analysis
-    5. Data Preprocessing
-    6. Final CheckPoint
-    7. Building Model
-    8. Testing Model
-    9. Conclusion
+    2. Data Extraction
+    3. Data understanding
+    4. Installation
+    5. Exploratory Data Analysis
+    6. Data Preprocessing
+    7. Final CheckPoint
+    8. Building Model
+    9. Testing Model
+    10. Conclusion
 
 ### Problem Statement:
 From a business perspective, employees who are not present to do their jobs, will cost more than they should. The absence is a big problem because it reduces output and is annoying because it requires rescheduling and changing programs which is one of the contributing factors to the failure of a department's organization to meet performance targets.
